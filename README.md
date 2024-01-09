@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=강병수입니다)
-<a href="https://opgc.me/#/users/Kbyungs" target="_blank"><img src="https://api.opgc.me/githubs/users/Kbyungs/tag/?theme=basic" /></a>
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbyungs&show_icons=true&theme=transparent)
+</div>
+
 <div align="center">
   <h3>Solved.ac Profile</h3>
   
