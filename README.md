@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=강병수입니다)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Ifhappyeverafterdidexist)
+</div>
 
 <div align="center">
   
