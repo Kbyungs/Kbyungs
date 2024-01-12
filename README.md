@@ -11,4 +11,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
 </div>
 
-![](profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <h3 padding-top ="3000px">강병수의 잔디 그래프</h3>
+  <img src="https://ghchart.rshah.org/Kbyungs" />
+</div>
