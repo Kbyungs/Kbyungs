@@ -12,6 +12,7 @@
   <h3>Solved.ac Profile</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
 </div>
 
 <div align="center">
