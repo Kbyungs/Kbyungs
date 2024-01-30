@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=KBSOO)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=강병숩니다)
 </div>
 
 <div align="center">
