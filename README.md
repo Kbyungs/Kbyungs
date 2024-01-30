@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=강병숩니다)
 </div>
 
+# 강병숩니다
+
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbyungs&show_icons=true&theme=transparent)
