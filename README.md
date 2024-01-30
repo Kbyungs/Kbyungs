@@ -6,12 +6,14 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbyungs&show_icons=true&theme=transparent)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
+
 </div>
 
 <div align="center">
   <h3>Solved.ac Profile</h3>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
+  
 </div>
 
 <div align="center">
