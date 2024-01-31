@@ -1,13 +1,13 @@
 # KANG BYUNG SOO
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요;강+병+숩+니+다)](https://git.io/typing-svg)
-<div align="center">
+<div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbyungs&show_icons=true&theme=dark) 
 <img src="http://mazandi.herokuapp.com/api?handle=jasonkbs&theme=dark"/>
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jasonkbs)](https://solved.ac/jasonkbs/)
 -->
-
 
 </div>
 
