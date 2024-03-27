@@ -41,7 +41,7 @@
 </div>
 
 # MORE
-<a href="https://velog.io/@kbsoo/posts">
+<a href="https://velog.io/@kbso_o/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 <a href="https://m.blog.naver.com/k_bsoo">
